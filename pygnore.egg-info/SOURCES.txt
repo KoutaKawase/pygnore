@@ -1,0 +1,8 @@
+README.md
+pygnore.py
+pygnore.egg-info/PKG-INFO
+pygnore.egg-info/SOURCES.txt
+pygnore.egg-info/dependency_links.txt
+pygnore.egg-info/entry_points.txt
+pygnore.egg-info/requires.txt
+pygnore.egg-info/top_level.txt
